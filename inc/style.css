@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+table, th, tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+table{
+    width: 100%;
+}
+th{
+    font-family: 'Quicksand', sans-serif;
+    padding: 5px;
+}
+.yes{
+    background-color: #152235;
+}
+.y{
+    color: white;
+}

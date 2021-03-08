@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "name": "Imones",
+    "description": "Imones",
+    "psr-4": {
+      "ImonesApp\\": "app"
+    }
+  }
+}
